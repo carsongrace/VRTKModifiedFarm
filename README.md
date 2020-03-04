@@ -8,9 +8,7 @@
 [![Backlog][Backlog-Badge]][Backlog]
 [![Documentation][Academy-Badge]][Academy]
 
-[![Slack][Slack-Badge]][Slack]
-[![Videos][Videos-Badge]][Videos]
-[![Twitter][Twitter-Badge]][Twitter]
+// Edited by Carson Levine
 
 ## Beta Disclaimer
 
